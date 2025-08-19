@@ -1,0 +1,2 @@
+# Automated-Synthetic-Data-Generation-and-Analysis-with-Python
+This project demonstrates the full pipeline of data analysis: - Synthetic student dataset generation with Faker (pl_PL localization). - Data enrichment with custom fields (blood type, study fields, research groups, etc.). - Statistical analysis with Pandas. - Export to CSV, Excel, and SQLite. - SQL querying and visualization with Matplotlib.

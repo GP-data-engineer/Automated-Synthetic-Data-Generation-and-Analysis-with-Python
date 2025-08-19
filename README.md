@@ -42,14 +42,14 @@ This project demonstrates a complete **data analysis pipeline** in Python:
 - **sqlite3** – SQL database  
 - **matplotlib** – visualization  
 
-## 🚀 Usage
-```bash
-pip install faker pandas matplotlib openpyxl
-python grzegorz_pieniak_automatyzacja_generowania_danych.py
-
 Example Visualization
 The script produces plots such as:
 Distribution of Math Grades
 Average Math Grade by Voivodeship
 Average Grades by Field of Study
 Students in Research Groups (pie chart)
+
+## 🚀 Usage
+```bash
+pip install faker pandas matplotlib openpyxl
+python grzegorz_pieniak_automatyzacja_generowania_danych.py
